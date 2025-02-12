@@ -1,0 +1,16 @@
+[project]
+name = "evo"
+version = "0.1.0"
+description = "Evo model replication & finetune"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=3.2.0",
+    "evo-model>=0.4",
+    "fastparquet>=2024.11.0",
+    "flash-attn>=2.7.4.post1",
+    "pytorch-optimizer>=3.4.0",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+    "transformers[torch]>=4.48.3",
+]
