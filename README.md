@@ -5,6 +5,7 @@ Recent advances in generative models for nucleotide sequences have shown promise
 
 ## Code and docs :)
 ```
-Will be up soon
+At this stage the models and code for training on viral sequences is being held back due to biosecurity concerns.
+Paper will be reviewed and models retrained on non-pathogenic data.  
 ```
 
